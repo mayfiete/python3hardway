@@ -15,3 +15,8 @@ print(f"I said: {x}")
 print("*" * 10) 
 
 print (("Fresh {}".format('snow')))
+
+
+print("""
+    I am 6" tall
+""")
